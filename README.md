@@ -6,6 +6,7 @@
 - JDK with `JAVA_HOME` set, Android SDK with `ANDROID_HOME` set, and `adb` on PATH.
 - An unlocked Android emulator or USB device with USB debugging enabled.
 - Appium 2.19.0 with the UiAutomator2 4.2.5 driver. The sample app APK is included in this folder.
+- Download or access the app from the https://github.com/saucelabs/sample-app-mobile/releases#release-2.5.0
 
 ## How to run
 
